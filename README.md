@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Joerassic
+- 👀 I’m interested in Computer Science and analytics
+- 🌱 I’m currently learning basic programming and doing CS50
